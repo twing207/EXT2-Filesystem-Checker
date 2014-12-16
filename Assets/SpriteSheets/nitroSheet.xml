@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:11333dca1728345c1cbd4768bf0011a5:688fbb857ed16ebf09cb7a50f206e602:7922f567312975b0bdc7fbc46bca3f4f$ -->
+<TextureAtlas imagePath="nitroSheet.png">
+    <SubTexture name="NitroBody" x="2" y="2" width="102" height="105"/>
+    <SubTexture name="NitroEye1" x="2" y="109" width="33" height="27"/>
+    <SubTexture name="NitroEye2" x="37" y="109" width="31" height="36"/>
+    <SubTexture name="NitroPart1" x="70" y="109" width="31" height="31"/>
+    <SubTexture name="NitroPart2" x="103" y="109" width="7" height="10"/>
+</TextureAtlas>

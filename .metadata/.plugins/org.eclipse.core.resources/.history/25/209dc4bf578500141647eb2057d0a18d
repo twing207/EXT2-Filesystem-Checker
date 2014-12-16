@@ -1,0 +1,12 @@
+package GameObjects
+{
+	import starling.display.Sprite;
+	
+	public class Nitro extends Sprite
+	{
+		public function Nitro()
+		{
+			super();
+		}
+	}
+}

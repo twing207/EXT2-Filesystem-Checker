@@ -13,6 +13,8 @@ package
 		{
 			myStarling = new Starling(BottomLayer, stage);
 			myStarling.antiAliasing = 1;
+			
+			myStarling.start();
 		}
 	}
 }
