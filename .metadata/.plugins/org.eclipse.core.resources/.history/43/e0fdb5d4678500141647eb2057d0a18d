@@ -1,0 +1,21 @@
+package GameObjects
+{
+	import starling.display.MovieClip;
+	import starling.display.Sprite;
+	
+	public class nitroParticle extends Sprite
+	{
+		private var art:MovieClip;
+		
+		public function nitroParticle()
+		{
+			super();
+			
+		}
+		
+		public function setPosition(x:Number, y:Number):void {
+			
+			
+		}
+	}
+}

@@ -261,3 +261,197 @@ java.lang.ClassCastException: org.eclipse.wst.xml.core.internal.document.TextImp
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+
+!ENTRY org.eclipse.jface 2 0 2014-12-16 16:13:10.353
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-12-16 16:13:10.354
+!MESSAGE A conflict occurred for COMMAND+\:
+Binding(COMMAND+\,
+	ParameterizedCommand(Command(com.adobe.flexbuilder.mxml.editor.ShowNextStateCommand,Next State,
+		,
+		Category(com.adobe.flexbuilder.mxml.editor.stateNav,MXML State Visualization,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	com.adobe.flexide.editorcore.flexEditorScope,,,system)
+Binding(COMMAND+\,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.remove.block.comment,Remove Block Comment,
+		Remove Block Comment,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.wst.sse.ui.internal.handlers.RemoveBlockCommentHandler@70f9b3ee,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,cocoa,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-12-16 16:13:10.354
+!MESSAGE A conflict occurred for COMMAND+SHIFT+\:
+Binding(COMMAND+SHIFT+\,
+	ParameterizedCommand(Command(com.adobe.flexbuilder.mxml.editor.ShowPreviousStateCommand,Previous State,
+		,
+		Category(com.adobe.flexbuilder.mxml.editor.stateNav,MXML State Visualization,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	com.adobe.flexide.editorcore.flexEditorScope,,,system)
+Binding(COMMAND+SHIFT+\,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.remove.block.comment,Remove Block Comment,
+		Remove Block Comment,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.wst.sse.ui.internal.handlers.RemoveBlockCommentHandler@70f9b3ee,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-12-16 16:13:10.354
+!MESSAGE A conflict occurred for F3:
+Binding(F3,
+	ParameterizedCommand(Command(com.adobe.flexbuilder.as.editor.go.to.definition,Open Declaration,
+		,
+		Category(com.adobe.flexbuilder.editorcore.navigation.category,Navigation,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	com.adobe.flexide.editorcore.flexEditorScope,,,system)
+Binding(F3,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.open.editor,Open Declaration,
+		Open an editor on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(F3,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.open.file.from.source,Open Selection,
+		Open an editor on the selected link,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		LegacyHandlerWrapper(ActionHandler(action=org.eclipse.wst.sse.ui.internal.hyperlink.OpenHyperlinkAction@19940834)),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-12-16 16:13:10.354
+!MESSAGE A conflict occurred for COMMAND+O:
+Binding(COMMAND+O,
+	ParameterizedCommand(Command(com.adobe.flexbuilder.as.editor.quick.outline,Quick Outline,
+		,
+		Category(com.adobe.flexbuilder.editorcore.navigation.category,Navigation,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	com.adobe.flexide.editorcore.flexEditorScope,,,system)
+Binding(COMMAND+O,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.quick_outline,Quick Outline,
+		Show the quick outline for the editor input,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.wst.sse.ui.internal.quickoutline.QuickOutlineHandler@45a69b0a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-12-16 16:13:10.355
+!MESSAGE A conflict occurred for COMMAND+I:
+Binding(COMMAND+I,
+	ParameterizedCommand(Command(com.adobe.flexbuilder.as.editor.organize.autoindent,Correct Indentation,
+		,
+		Category(com.adobe.flexbuilder.as.editor.source.editing.category,ActionScript Source Editing,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	com.adobe.flexide.editorcore.flexEditorScope,,,system)
+Binding(COMMAND+I,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.format.active.elements,Format Active Elements,
+		Format active elements,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		LegacyHandlerWrapper(ActionHandler(action=org.eclipse.ui.texteditor.TextOperationAction@3d0cd13f)),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+Binding(COMMAND+I,
+	ParameterizedCommand(Command(org.eclipse.ui.file.properties,Properties,
+		Display the properties of the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		LegacyHandlerWrapper(ActionHandler(action=org.eclipse.ui.dialogs.PropertyDialogAction@147d9e69)),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-12-16 16:13:10.355
+!MESSAGE A conflict occurred for COMMAND+SHIFT+P:
+Binding(COMMAND+SHIFT+P,
+	ParameterizedCommand(Command(com.adobe.flexbuilder.as.editor.go.to.brace,Go to Matching Bracket,
+		,
+		Category(com.adobe.flexbuilder.editorcore.navigation.category,Navigation,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	com.adobe.flexide.editorcore.flexEditorScope,,,system)
+Binding(COMMAND+SHIFT+P,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.goto.matching.bracket,Matching Bracket,
+		Go to Matching Bracket,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.wst.sse.ui.StructuredTextEditor$GotoMatchingBracketHandler@432b0a01,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-12-16 16:13:10.355
+!MESSAGE A conflict occurred for COMMAND+/:
+Binding(COMMAND+/,
+	ParameterizedCommand(Command(com.adobe.flexide.editorcore.toggle.comment,Toggle Comment ,
+		,
+		Category(com.adobe.flexbuilder.editorcore.flex.edit,Flex Editing,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	com.adobe.flexide.editorcore.flexEditorScope,,,system)
+Binding(COMMAND+/,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.add.block.comment,Add Block Comment,
+		Add Block Comment,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.wst.sse.ui.internal.handlers.AddBlockCommentHandler@3e9dea1a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,cocoa,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-12-16 16:13:10.355
+!MESSAGE A conflict occurred for COMMAND+SHIFT+C:
+Binding(COMMAND+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.toggle.comment,Toggle Comment,
+		Toggle Comment,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.wst.sse.ui.internal.handlers.ToggleLineCommentHandler@71747113,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+Binding(COMMAND+SHIFT+C,
+	ParameterizedCommand(Command(com.adobe.flexide.editorcore.add.comment,Toggle Block Comment,
+		,
+		Category(com.adobe.flexbuilder.editorcore.flex.edit,Flex Editing,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	com.adobe.flexide.editorcore.flexEditorScope,,,system)
+!SESSION 2014-12-16 18:40:24.730 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.6.0_65
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/twing207/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/twing207/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-12-16 18:40:32.535
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.jface 2 0 2014-12-16 18:40:46.655
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-12-16 18:40:46.655
+!MESSAGE A conflict occurred for COMMAND+SHIFT+F12:
+Binding(COMMAND+SHIFT+F12,
+	ParameterizedCommand(Command(org.eclipse.mylyn.tasks.ui.command.searchForTask,Search Repository for Task,
+		,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.mylyn.internal.tasks.ui.search.SearchTaskHandler,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+F12,
+	ParameterizedCommand(Command(com.adobe.flexbuilder.flashbridge.export.publish.movie,Publish Movie,
+		Publish in Flash Professional,
+		Category(com.adobe.flexbuilder.flashbridge.flashProCommands,&Flash Professional,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)

@@ -1,0 +1,26 @@
+package
+{
+	import GameObjects.NitroPlayer;
+	
+	import starling.display.Sprite;
+	import starling.events.Event;
+	
+	public class BottomLayer extends Sprite
+	{
+		public function BottomLayer()
+		{
+			super();
+			this.addEventListener(starling.events.Event.ADDED_TO_STAGE, onAddedToStage);
+			
+		}
+		
+		private function onAddedToStage():void {
+			trace("starling framework Initialized");
+			var nitro:NitroPlayer = new NitroPlayer();
+		    nitro.x = stage.stageWidth / nitro.width;
+			nitro.y = stage.stageHeight / nitro.height;
+			trace("stageWidth = " + stage.stageWidth);
+			this.addChild(nitro);
+		}
+	}
+}

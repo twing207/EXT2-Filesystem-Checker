@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="57" version="2.0">
+<workbenchAdvisor/>
+<window height="737" maximized="true" width="1024" x="21" y="22">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="136" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="158" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="84" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="32" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="54" y="22"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="152" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1418753916718" focus="true" label="Workspace - Flash">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor focus="true" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="Nitro.as" partName="Nitro.as" path="/Users/twing207/nitro/Nitro/src/Nitro.as" title="Nitro.as" tooltip="Nitro/src/Nitro.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Nitro/src/Nitro.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1511" selectionTopPixel="0"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="BottomLayer.as" partName="BottomLayer.as" path="/Users/twing207/nitro/Nitro/src/BottomLayer.as" title="BottomLayer.as" tooltip="Nitro/src/BottomLayer.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Nitro/src/BottomLayer.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="593" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="Nitro-app.xml" partName="Nitro-app.xml" path="/Users/twing207/nitro/Nitro/src/Nitro-app.xml" title="Nitro-app.xml" tooltip="Nitro/src/Nitro-app.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Nitro/src/Nitro-app.xml"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="NitroPlayer.as" partName="NitroPlayer.as" path="/Users/twing207/nitro/Nitro/src/GameObjects/NitroPlayer.as" title="NitroPlayer.as" tooltip="Nitro/src/GameObjects/NitroPlayer.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Nitro/src/GameObjects/NitroPlayer.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="725" selectionTopPixel="132"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="Assets.as" partName="Assets.as" path="/Users/twing207/nitro/Nitro/src/Assets.as" title="Assets.as" tooltip="Nitro/src/Assets.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Nitro/src/Assets.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="151" selectionTopPixel="0"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="nitroParticle.as" partName="nitroParticle.as" path="/Users/twing207/nitro/Nitro/src/GameObjects/nitroParticle.as" title="nitroParticle.as" tooltip="Nitro/src/GameObjects/nitroParticle.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Nitro/src/GameObjects/nitroParticle.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="753" selectionTopPixel="86"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<expanded>
+<category IMemento.internal.id="Errors (1 item)"/>
+</expanded>
+<columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="com.adobe.flexbuilder.packageexplorer" partName="Package Explorer">
+<viewState LINK_NAVIGATOR_TO_EDITOR="0" fpeIsFlat="0" fpeSortBy="1" sorter="1">
+<fpeExpanded>
+<fpeElement fpePath="/Nitro"/>
+<fpeElement fpePath="/Nitro/src"/>
+<fpeElement fpePath="/Nitro/src/%typeDefaultPackage"/>
+</fpeExpanded>
+<fpeSelection>
+<fpeElement fpePath="/Nitro/src/BottomLayer.as"/>
+</fpeSelection>
+<filters>
+<filter element=".flexProperties" isEnabled="true"/>
+<filter element=".actionScriptProperties" isEnabled="true"/>
+<filter element=".project" isEnabled="true"/>
+<filter element=".settings" isEnabled="true"/>
+<filter element=".flexLibProperties" isEnabled="true"/>
+<filter element=".DS_Store" isEnabled="true"/>
+<filter element=".model" isEnabled="true"/>
+<filter element="*.class" isEnabled="false"/>
+<filter element=".*" isEnabled="false"/>
+<filter element=".flexProperties" isEnabled="true"/>
+<filter element=".actionScriptProperties" isEnabled="true"/>
+<filter element=".project" isEnabled="true"/>
+<filter element=".settings" isEnabled="true"/>
+<filter element=".flexLibProperties" isEnabled="true"/>
+<filter element=".DS_Store" isEnabled="true"/>
+<filter element=".model" isEnabled="true"/>
+<filter element="*.class" isEnabled="false"/>
+<filter element=".*" isEnabled="false"/>
+</filters>
+<expanded>
+<element path="/Nitro"/>
+</expanded>
+<selection>
+<element path="/Nitro/src/BottomLayer.as"/>
+</selection>
+</viewState>
+</view>
+<view id="com.adobe.flexbuilder.monitors.network.view.NetworkMonitorView" partName="Network Monitor">
+<viewState/>
+</view>
+<view id="com.adobe.flexbuilder.dcrad.views.DataServicesView" partName="Data/Services">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+<view id="com.adobe.flexbuilder.as.editor.asdocviewer" partName="ASDoc">
+<viewState/>
+</view>
+</views>
+<perspectives activePerspective="com.adobe.flexbuilder.editors.mxml.ui.perspectives.development">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="com.adobe.flexbuilder.mxml.editor.ui.perspectives.DevelopmentPerspectiveFactory" id="com.adobe.flexbuilder.editors.mxml.ui.perspectives.development" label="Flash"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.flashbridge.flashproject.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.egit.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.wb.core.ui.actionset"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.profileActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.debug.ui.flexDebuggingActionSet"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.dcrad.actionSet"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.zzz.editors.common.ui.project.publish"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.exportimport.actionSet1"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.as.editor.ui.NavigationActions"/>
+<show_view_action id="com.adobe.flexbuilder.packageexplorer"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="com.adobe.flexbuilder.dcrad.views.DataServicesView"/>
+<new_wizard_action id="com.adobe.flexbuilder.editorcore.ui.project.wizards.newproject"/>
+<new_wizard_action id="com.adobe.flexbuilder.project.ui.wizards.FlexLibraryProjectWizard"/>
+<new_wizard_action id="com.adobe.flashbuilder.project.multiplatform.ui.MultiPlatformProjectWizard"/>
+<new_wizard_action id="com.adobe.flexbuilder.project.ui.wizards.NewActionScriptProjectWizard"/>
+<new_wizard_action id="com.adobe.flexbuilder.project.ui.wizards.ActionScriptLibraryProjectWizard"/>
+<new_wizard_action id="com.adobe.flashbuilder.project.multiplatform.ui.MultiPlatformActionScriptProjectWizard"/>
+<new_wizard_action id="com.adobe.flexbuilder.flashbridge.NewFlashProProjectWizard"/>
+<new_wizard_action id="com.adobe.flexbuilder.mxml.editor.ui.wizards.NewMXMLApplication"/>
+<new_wizard_action id="com.adobe.flexbuilder.mxml.editor.ui.wizards.NewMXMLComponent"/>
+<new_wizard_action id="com.adobe.flexbuilder.mxml.editor.ui.wizards.NewMXMLItemRenderer"/>
+<new_wizard_action id="com.adobe.flexbuilder.mxml.editor.ui.wizards.NewMXMLModule"/>
+<new_wizard_action id="com.adobe.flexbuilder.mxml.editor.ui.wizards.NewMXMLSkin"/>
+<new_wizard_action id="com.adobe.flexbuilder.as.editor.wizards.NewActionScriptFile.flex"/>
+<new_wizard_action id="com.adobe.flexbuilder.as.editor.classWizard.flex"/>
+<new_wizard_action id="com.adobe.flexbuilder.as.editor.interfaceWizard.flex"/>
+<new_wizard_action id="com.adobe.flexbuilder.as.editor.skinnableComponentWizard.flex"/>
+<new_wizard_action id="com.adobe.flexbuilder.as.editor.workerWizard.flex"/>
+<new_wizard_action id="com.adobe.flexbuilder.css.editor.wizards.NewCSSFile"/>
+<new_wizard_action id="com.adobe.flexbuilder.as.editor.flexUnitClassWizard.flex"/>
+<new_wizard_action id="com.adobe.flexbuilder.as.editor.flexUnitTestSuiteClassWizard.flex"/>
+<new_wizard_action id="com.adobe.flexbuilder.as.editor.packageWizard.flex"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<perspective_action id="com.adobe.flexbuilder.editors.mxml.ui.perspectives.development"/>
+<perspective_action id="com.adobe.flexbuilder.debug.ui.perspectives.debug"/>
+<perspective_action id="com.adobe.flash.profiler.ui.ProfilingPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="com.adobe.flexbuilder.packageexplorer"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="com.adobe.flexbuilder.dcrad.views.DataServicesView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="com.adobe.flexbuilder.monitors.network.view.NetworkMonitorView"/>
+<view id="com.adobe.flexbuilder.as.editor.asdocviewer"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@16dd6ae7">
+<folder activePageID="com.adobe.flexbuilder.packageexplorer" appearance="2" expanded="2">
+<page content="com.adobe.flexbuilder.packageexplorer" label="Package Explorer"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="762" ratioRight="254" relationship="2" relative="org.eclipse.ui.internal.ViewStack@16dd6ae7">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.19980314" ratioLeft="203" ratioRight="813" relationship="2" relative="org.eclipse.ui.internal.ViewStack@16dd6ae7"/>
+<info folder="true" part="bottomLayout" ratio="0.75" ratioLeft="489" ratioRight="163" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="com.adobe.flexbuilder.dcrad.views.DataServicesView" label="Data/Services"/>
+<page content="com.adobe.flexbuilder.monitors.network.view.NetworkMonitorView" label="Network Monitor"/>
+<page content="com.adobe.flexbuilder.as.editor.asdocviewer" label="ASDoc"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="outlineHolder" ratio="0.5" ratioLeft="326" ratioRight="326" relationship="4" relative="org.eclipse.ui.internal.ViewStack@16dd6ae7">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/Nitro/src/Nitro.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/Nitro/src/BottomLayer.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/Nitro/src/Nitro-app.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/Nitro/src/GameObjects/Nitro.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/Nitro/src/Assets.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/Nitro/src/GameObjects/nitroParticle.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/Nitro/src/GameObjects/NitroPlayer.as"/>
+</editors>
+<item historyLabel="BottomLayer.as" index="1">
+<position info="not_deleted" x="349" y="0"/>
+</item>
+<item historyLabel="Nitro-app.xml" index="2">
+<position info="not_deleted" x="4484" y="0"/>
+</item>
+<item historyLabel="Nitro.as" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="BottomLayer.as" index="1">
+<position info="not_deleted" x="349" y="0"/>
+</item>
+<item historyLabel="Nitro.as" index="3">
+<position/>
+</item>
+<item historyLabel="BottomLayer.as" index="1">
+<position info="not_deleted" x="349" y="0"/>
+</item>
+<item historyLabel="Nitro.as" index="3">
+<position info="not_deleted" x="274" y="0"/>
+</item>
+<item historyLabel="BottomLayer.as" index="1">
+<position info="not_deleted" x="44" y="30"/>
+</item>
+<item historyLabel="Nitro.as" index="3">
+<position info="not_deleted" x="274" y="0"/>
+</item>
+<item historyLabel="Assets.as" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Assets.as" index="4">
+<position info="not_deleted" x="777" y="0"/>
+</item>
+<item historyLabel="Nitro.as" index="3">
+<position info="not_deleted" x="913" y="0"/>
+</item>
+<item historyLabel="nitroParticle.as" index="5">
+<position info="not_deleted" x="292" y="0"/>
+</item>
+<item historyLabel="Assets.as" index="4">
+<position info="not_deleted" x="777" y="0"/>
+</item>
+<item historyLabel="nitroParticle.as" index="5">
+<position info="not_deleted" x="292" y="0"/>
+</item>
+<item historyLabel="Nitro.as" index="3">
+<position info="not_deleted" x="673" y="47"/>
+</item>
+<item historyLabel="Assets.as" index="4">
+<position info="not_deleted" x="777" y="0"/>
+</item>
+<item historyLabel="nitroParticle.as" index="5">
+<position/>
+</item>
+<item historyLabel="Assets.as" index="4">
+<position info="not_deleted" x="777" y="0"/>
+</item>
+<item historyLabel="nitroParticle.as" index="5">
+<position/>
+</item>
+<item historyLabel="Nitro.as" index="3">
+<position info="not_deleted" x="958" y="0"/>
+</item>
+<item historyLabel="BottomLayer.as" index="1">
+<position info="not_deleted" x="44" y="30"/>
+</item>
+<item historyLabel="Nitro.as" index="3">
+<position info="not_deleted" x="958" y="0"/>
+</item>
+<item historyLabel="Nitro-app.xml" index="2">
+<position info="not_deleted" x="4484" y="0"/>
+</item>
+<item historyLabel="BottomLayer.as" index="1">
+<position info="not_deleted" x="390" y="0"/>
+</item>
+<item historyLabel="Nitro.as" index="3">
+<position info="not_deleted" x="270" y="0"/>
+</item>
+<item historyLabel="BottomLayer.as" index="1">
+<position info="not_deleted" x="390" y="0"/>
+</item>
+<item historyLabel="Nitro.as" index="3">
+<position info="not_deleted" x="270" y="0"/>
+</item>
+<item historyLabel="NitroPlayer.as" index="6">
+<position info="not_deleted" x="158" y="0"/>
+</item>
+<item historyLabel="BottomLayer.as" index="1">
+<position info="not_deleted" x="334" y="0"/>
+</item>
+<item historyLabel="NitroPlayer.as" index="6">
+<position info="not_deleted" x="282" y="0"/>
+</item>
+<item historyLabel="BottomLayer.as" index="1">
+<position info="not_deleted" x="349" y="0"/>
+</item>
+<item historyLabel="Nitro-app.xml" index="2">
+<position info="not_deleted" x="4484" y="0"/>
+</item>
+<item historyLabel="BottomLayer.as" index="1">
+<position info="not_deleted" x="286" y="0"/>
+</item>
+<item historyLabel="nitroParticle.as" index="5">
+<position info="not_deleted" x="753" y="0"/>
+</item>
+<item historyLabel="NitroPlayer.as" index="6">
+<position info="not_deleted" x="722" y="0"/>
+</item>
+<item historyLabel="Assets.as" index="4">
+<position info="not_deleted" x="777" y="0"/>
+</item>
+<item historyLabel="nitroParticle.as" index="5">
+<position info="not_deleted" x="753" y="0"/>
+</item>
+<item historyLabel="Assets.as" index="4">
+<position info="not_deleted" x="777" y="0"/>
+</item>
+<item historyLabel="NitroPlayer.as" index="6">
+<position info="not_deleted" x="725" y="0"/>
+</item>
+<item historyLabel="Assets.as" index="4">
+<position info="not_deleted" x="1067" y="0"/>
+</item>
+<item historyLabel="NitroPlayer.as" index="6">
+<position info="not_deleted" x="725" y="0"/>
+</item>
+<item historyLabel="Assets.as" index="4">
+<position info="not_deleted" x="715" y="0"/>
+</item>
+<item historyLabel="nitroParticle.as" index="5">
+<position info="not_deleted" x="753" y="0"/>
+</item>
+<item historyLabel="NitroPlayer.as" index="6">
+<position info="not_deleted" x="725" y="0"/>
+</item>
+<item historyLabel="BottomLayer.as" index="1">
+<position info="not_deleted" x="593" y="0"/>
+</item>
+<item historyLabel="Nitro.as" index="0">
+<position info="not_deleted" x="371" y="0"/>
+</item>
+<item historyLabel="Assets.as" index="4">
+<position info="not_deleted" x="715" y="0"/>
+</item>
+<item historyLabel="BottomLayer.as" index="1">
+<position info="not_deleted" x="593" y="0"/>
+</item>
+<item active="true" historyLabel="Nitro.as" index="0">
+<position info="not_deleted" x="371" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="16384">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@16dd6ae7"/>
+<trimItem IMemento.internal.id="outlineHolder"/>
+</trimArea>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+<trimItem IMemento.internal.id="org.eclipse.mylyn.tasks.ui.trim.container"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="bottomLayout"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="nitroParticle.as" tooltip="Nitro/src/GameObjects/nitroParticle.as">
+<persistable path="/Nitro/src/GameObjects/nitroParticle.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="Assets.as" tooltip="Nitro/src/Assets.as">
+<persistable path="/Nitro/src/Assets.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="Nitro-app.xml" tooltip="Nitro/src/Nitro-app.xml">
+<persistable path="/Nitro/src/Nitro-app.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="BottomLayer.as" tooltip="Nitro/src/BottomLayer.as">
+<persistable path="/Nitro/src/BottomLayer.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="Nitro.as" tooltip="Nitro/src/Nitro.as">
+<persistable path="/Nitro/src/Nitro.as"/>
+</file>
+<file factoryID="com.adobe.flexbuilder.editors.derived.ui.startpage.StartPageEditorInput" id="com.adobe.flexbuilder.ui.StartPage" name="Web Browser" tooltip="Flash Builder Welcome Screen">
+<persistable iconpath="platform:/plugin/com.adobe.flexbuilder.ui/icons/fb_app_16.png" style="20" tooltip="Flash Builder Welcome Screen" url="file:/Applications/Adobe Flash Builder 4.7/eclipse/plugins/com.adobe.flexbuilder.ui_4.7.0.349722/welcome/index.html?firstLaunch=false&amp;edition=prem&amp;version=470"/>
+</file>
+</mruList>
+</workbench>

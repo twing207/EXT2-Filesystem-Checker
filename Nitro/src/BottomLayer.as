@@ -1,5 +1,7 @@
 package
 {
+	import GameObjects.NitroPlayer;
+	
 	import starling.display.Sprite;
 	import starling.events.Event;
 	
@@ -14,6 +16,11 @@ package
 		
 		private function onAddedToStage():void {
 			trace("starling framework Initialized");
+			var nitro:NitroPlayer = new NitroPlayer();
+		    nitro.x = stage.stageWidth / 2;
+			nitro.y = stage.stageHeight / 2;
+			trace("stageWidth = " + stage.stageWidth);
+			this.addChild(nitro);
 		}
 	}
 }

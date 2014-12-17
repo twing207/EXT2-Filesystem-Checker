@@ -6,6 +6,7 @@ package
 	import starling.textures.Texture;
 	import starling.textures.TextureAtlas;
 
+	
 	public class Assets
 	{
 		[Embed(source="../media/graphics/nitroSheet.png")]
@@ -21,7 +22,7 @@ package
 		{
 			if (nitroTextureAtlas == null) 
 			{
-				var texture:Texture = getTexture("AtlasTextureGame");
+				var texture:Texture = getTexture("nitroAtlas");
 				var xml:XML = XML(new nitroAtlasXML());
 				nitroTextureAtlas = new TextureAtlas(texture, xml);
 			}
